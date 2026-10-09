@@ -1,0 +1,12 @@
+.venv/
+.env
+logs/
+__pycache__/
+*.db
+airflow.cfg
+*.json.generated
+simple_auth_manager_passwords*
+imposing-bee-*.json
+*service-account*.json
+*.pem
+dags/data/train_clean.csv
